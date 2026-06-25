@@ -14,7 +14,7 @@ For this project, I developed a Power BI report to provide the regional sales te
 ### Power BI report analyzing the provided sales data, including:
 
 - A line chart showing sales trends over the full period covered in the data
-- A column or bar chart showing sales performance by category
+- A bar chart showing sales performance by category
 - A donut chart showing relative sales for each state in the region
 - A list of top-selling books, including author names, & region 
 
