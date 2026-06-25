@@ -5,9 +5,7 @@ Naomi Tewolde
 Region: West 
 | State: Online Sales & Colorado
 ## Project Overview:
-As part of this project, I conducted a business analysis for EmporiUm to better understand sales performance across my assigned territories, the Northeast region(Maine and Massachusetts). My goal was to provide clear, data-driven insights that can support your marketing decisions and help identify opportunities to improve sales performance.
-Using Python, Jupyter Notebook, and a structured analysis, I worked through the full process of cleaning, analyzing, and visualizing the data to highlight meaningful patterns and comparisons between the territories.
-
+For this project, I developed a Power BI report to provide the regional sales team with clear, actionable insights into business performance. My analysis focused on identifying sales trends over time, highlighting recent sales performance, and uncovering key patterns that can support decision-making. As part of the report, I identified top-selling books and authors, along with other meaningful insights that could help territory and store managers better understand their markets. The final dashboard was designed to be shared at a regional management meeting, enabling stakeholders to easily interpret sales data and make informed strategic decisions.
 ## Deliverables:
 ### Power BI report analyzing the provided sales data, including:
 
