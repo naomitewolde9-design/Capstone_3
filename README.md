@@ -1,4 +1,4 @@
-# Capstone_3: EmporiUm Analysis with Power
+# Capstone_3: EmporiUm Analysis with Power BI
 # Author:
 Naomi Tewolde
 # Assigned Territory: 
